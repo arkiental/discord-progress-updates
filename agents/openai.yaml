@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discord Image Updates"
+  short_description: "Image-only updates through a quiet outbox watcher"
+  default_prompt: "Use $discord-progress-updates to enqueue frequent real images of this task for image-only Discord updates."
